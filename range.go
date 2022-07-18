@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// slice
 var pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
 
 // range
